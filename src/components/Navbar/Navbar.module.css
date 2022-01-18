@@ -1,14 +1,12 @@
 .nav {
-
-    margin-top: 1px;
     grid-area: n;
-    background-color: #0483bf;
+    background-color: #ffffff;
     padding: 20px;
 }
 
 .item a {
     text-decoration: none;
-    color: white;
+    color: #8793a3;
 }
 
 .item{
